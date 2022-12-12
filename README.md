@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berkvarol33
-- 👀 I’m interested in Artificial Neural Networks
+- 👀 I’m interested in Artificial Neural Networks, Network Analysis & Graph Theory
 - 🌱 I’m currently learning Python and OOP on C++
 
 <!---
